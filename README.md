@@ -8,7 +8,7 @@
 ### Project Demo
 Here is a demo of the dashboard functionality I developed from scratch in this GSoC project:
 
-https://github.com/mohamedawnallah/gsoc2023/assets/69568555/26583eb1-64cb-4990-b210-0aa5c5a41537
+![alarms-correlation-and-aggregated-reports-demo](./assets/alarms-correlation-and-aggregated-reports-demo.gif)
 
 ### Introduction
 I want to introduce my Google Summer of Code Project at the Internet Health Report (IHR), which focused on Alarms Correlation and Aggregated Reports through an online tool. This project is being conducted under the mentorship of Romain Fontugne and Emile Aben.
